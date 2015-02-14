@@ -1,0 +1,4 @@
+== README
+
+## rails running -B without bundle
+must install bundle if you wnat to include bundle
